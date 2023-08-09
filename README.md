@@ -1,2 +1,11 @@
-# LuxBot
-一个初衷为服务于立直麻将的机器人, 基于nb2和go-cqhttp进行开发, 前身为Majsoul-QQBot
+# study-nb
+
+## How to start
+
+1. generate project using `nb create` .
+2. install plugins using `nb plugin install` .
+3. run your bot using `nb run` .
+
+## Documentation
+
+See [Docs](https://v2.nonebot.dev/)
