@@ -1,11 +1,7 @@
-# study-nb
+# LuxBot
+
+前身为 [Majsoul-QQBot](https://github.com/NekoRabi/Majsoul-QQBot),使用NB2 和gocq重构的版本，放弃使用 YiriMirai
 
 ## How to start
 
-1. generate project using `nb create` .
-2. install plugins using `nb plugin install` .
-3. run your bot using `nb run` .
-
-## Documentation
-
-See [Docs](https://v2.nonebot.dev/)
+我知道你很急，但你先别急
